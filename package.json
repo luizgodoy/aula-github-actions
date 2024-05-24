@@ -1,0 +1,20 @@
+{
+    "name": "my-project",
+    "version": "1.0.0",
+    "description": "My awesome Node.js project",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Running tests...\" && exit 0",
+      "start": "node index.js"
+    },
+    "keywords": [
+      "node",
+      "javascript"
+    ],
+    "author": "Luiz Godoy <garciadegodoy@msn.com>",
+    "license": "MIT",
+    "dependencies": {
+      "some-dependency": "^1.2.3"
+    }
+  }
+  
