@@ -14,7 +14,7 @@
     "author": "Luiz Godoy <garciadegodoy@msn.com>",
     "license": "MIT",
     "dependencies": {
-      "some-dependency": "^1.2.3"
+      "xlsx": "^0.17.4"
     }
   }
   
